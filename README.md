@@ -1,6 +1,6 @@
 # Welcome to my data science portfolio!
 
-My name is Abdoul Toure and I am a data scientist with 3 years of experience in the field. 
+My name is Abdoul Toure and I am a data scientist with 7 years of experience in the analytics field. 
 
 Throughout my career, I have had the opportunity to work on a variety of data science projects, ranging from [Project 1] to [Project 2].
 
