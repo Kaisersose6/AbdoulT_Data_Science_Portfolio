@@ -15,9 +15,8 @@ Thank you for taking the time to review my portfolio.
 If you have any questions or would like to discuss any of my projects in more detail, please don't hesitate to reach out. 
 
 ## List of Projects:
-. Project 1
-. Project 2
-. Project 3
-. Project 4
-. Project 5
-
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
