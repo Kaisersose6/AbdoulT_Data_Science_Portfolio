@@ -1,22 +1,21 @@
-# Welcome to my data science portfolio!
+# 📊 Abdoul Toure – Senior Data Science Portfolio
 
-My name is Abdoul Toure and I am a data scientist with 7 years of experience in the analytics field. 
+Welcome! This portfolio showcases my applied work across credit risk, healthcare analytics, marketing science, and quantitative trading. 
+Projects demonstrate my ability to develop end-to-end data science solutions, from raw data to deployed models and dashboards.
 
-Throughout my career, I have had the opportunity to work on a variety of data science projects, ranging from [Project 1] to [Project 2].
+🔧 **Tech Stack**: Python, SQL, Spark, Airflow, DBT, Tableau, Power BI, scikit-learn, XGBoost, FastAPI, Snowflake, Kafka  
+📍 **Specialties**: Credit scoring, healthcare analytics, marketing attribution, fraud detection, predictive modeling, data pipelines
 
-In this portfolio, you will find a selection of my most notable projects and accomplishments. Each project includes a description of the problem I was trying to solve, the methods and techniques I used, and the results I achieved. 
+## 🚀 Highlighted Categories
+- [Credit Risk Models](./credit-risk-models/)
+- [Healthcare Models](./healthcare-models/)
+- [Marketing Models](./marketing-models/)
+- [Quantitative Trading](./trading-models/)
+- [Data Engineering Pipelines](./data-engineering/)
 
-I have also included code and data visualizations to provide a deeper understanding of my work.
-
-I hope that this portfolio will give you a sense of my skills and experience in data science and the value that I can bring to your organization. 
-
-Thank you for taking the time to review my portfolio. 
-
-If you have any questions or would like to discuss any of my projects in more detail, please don't hesitate to reach out. 
-
-## List of Projects:
-- Project 1
-- Project 2
-- Project 3
-- Project 4
-- Project 5
+Each project includes:
+- Problem statement
+- Dataset description (or synthetic data generation)
+- EDA and feature engineering
+- Modeling and evaluation
+- Business insights or technical deployment
