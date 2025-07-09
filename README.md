@@ -7,7 +7,7 @@ Projects demonstrate my ability to develop end-to-end data science solutions, fr
 📍 **Specialties**: Credit scoring, healthcare analytics, marketing attribution, fraud detection, predictive modeling, data pipelines
 
 ## 🚀 Highlighted Categories
-- [Credit Risk Models](./credit-risk-models/)
+- [Credit Risk Models](./Credit Risk Modeling Projects/)
 - [Healthcare Models](./healthcare-models/)
 - [Marketing Models](./marketing-models/)
 - [Quantitative Trading](./trading-models/)
