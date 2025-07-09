@@ -15,11 +15,7 @@ AdAstra uses computer vision and NLP to analyze ad creatives across social platf
 ## 💡 Business Value
 - Reduced customer acquisition costs by 18% in beta tests
 - Automated creative optimization for 10,000+ ad variations
-<<<<<<< HEAD
-- Real-time decisioning at 200ms latency
-=======
 - Real-time decision-making at 200ms latency
->>>>>>> eb3b9cb43d6b409514163c239830e53f2c524faa
 
 ## 🛠️ Tech Stack
 - **Core**: Python 3.11, PyTorch 2.0
@@ -30,26 +26,13 @@ AdAstra uses computer vision and NLP to analyze ad creatives across social platf
 
 ```
 AdAstra/
-├── README.md
+├── config/ # App settings and environment variables
+├── data/ # Sample inputs and testing data
+├── models/ # Vision, NLP, and bandit models
+├── pipeline/ # Inference and optimization logic
+├── services/ # API + Meta Ads SDK integration
+├── dashboard/ # Streamlit frontend
+├── utils/ # Helper functions
 ├── requirements.txt
-├── config.py
-├── main.py
-├── data_pipeline/
-│   ├── api_connectors.py
-│   ├── feature_engineering.py
-│   └── data_validation.py
-├── ml_core/
-│   ├── multimodal_model.py
-│   ├── bandit_optimizer.py
-│   └── model_evaluation.py
-├── serving_layer/
-│   ├── fastapi_app.py
-│   ├── redis_cache.py
-│   └── auth.py
-├── frontend/
-│   ├── dashboard.py (Streamlit)
-│   └── assets/
-└── tests/
-    ├── test_data_pipeline.py
-    └── test_ml_models.py
+└── README.md
 ``` 
