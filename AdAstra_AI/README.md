@@ -1,5 +1,20 @@
 # AdAstra: AI-Powered Ad Optimization
 
+Concept Overview
+AdAstra uses computer vision and NLP to analyze ad creatives across social platforms (Meta, TikTok, etc.), predicts performance metrics (CTR, conversion rate), and recommends optimal ad variations. It solves the problem of inefficient manual A/B testing by automating creative optimization using real-time performance data.
+
+Key Features
+
+Real-time API integration with Meta/Facebook Ads API
+
+Multi-modal AI (ResNet50 for images + BERT for text)
+
+Contextual bandits for dynamic creative selection
+
+Live dashboard for performance monitoring
+
+Scalable microservices architecture
+
 ## 🚀 Key Features
 - **Real-Time Creative Scoring**: Multi-modal AI evaluates 50+ ad attributes
 - **Adaptive Bandit Selection**: 22% higher CTR than A/B testing in simulations
