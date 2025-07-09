@@ -15,7 +15,11 @@ AdAstra uses computer vision and NLP to analyze ad creatives across social platf
 ## 💡 Business Value
 - Reduced customer acquisition costs by 18% in beta tests
 - Automated creative optimization for 10,000+ ad variations
+<<<<<<< HEAD
 - Real-time decisioning at 200ms latency
+=======
+- Real-time decision-making at 200ms latency
+>>>>>>> eb3b9cb43d6b409514163c239830e53f2c524faa
 
 ## 🛠️ Tech Stack
 - **Core**: Python 3.11, PyTorch 2.0
