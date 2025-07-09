@@ -2,7 +2,7 @@ import pymc as pm
 import numpy as np
 import pandas as pd
 from config import Config
-from .adstock import apply_adstock_vectorized
+from adstock import apply_adstock_vectorized  # <-- changed this line
 
 def build_model(data):
     channels = Config.CHANNELS
