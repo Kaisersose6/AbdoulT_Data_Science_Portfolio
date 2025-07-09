@@ -21,3 +21,29 @@ AdAstra uses computer vision and NLP to analyze ad creatives across social platf
 - **Core**: Python 3.11, PyTorch 2.0
 - **APIs**: Meta Ads, FastAPI, Redis
 - **ML**: ResNet50, BERT, Thompson Sampling
+
+## Project Structure
+
+AdAstra/
+├── README.md
+├── requirements.txt
+├── config.py
+├── main.py
+├── data_pipeline/
+│   ├── api_connectors.py
+│   ├── feature_engineering.py
+│   └── data_validation.py
+├── ml_core/
+│   ├── multimodal_model.py
+│   ├── bandit_optimizer.py
+│   └── model_evaluation.py
+├── serving_layer/
+│   ├── fastapi_app.py
+│   ├── redis_cache.py
+│   └── auth.py
+├── frontend/
+│   ├── dashboard.py (Streamlit)
+│   └── assets/
+└── tests/
+    ├── test_data_pipeline.py
+    └── test_ml_models.py
