@@ -8,9 +8,9 @@
 
 | Component            | Purpose                                                                 |
 |---------------------|-------------------------------------------------------------------------|
-| `00_setup.py`        | Fetch and save SEC filings (10-K/10-Q) for selected companies           |
-| `01_preprocess.py`   | Clean and standardize filing text for NLP processing                    |
-| `02_nlp_risk_classification.py` | Classify risk types using Hugging Face zero-shot model (BART-MNLI)  |
+| `00_setup.ipynb`        | Fetch and save SEC filings (10-K/10-Q) for selected companies           |
+| `01_preprocess.ipynb`   | Clean and standardize filing text for NLP processing                    |
+| `02_nlp_risk_classification.ipynb` | Classify risk types using Hugging Face zero-shot model (BART-MNLI)  |
 | `03_visualize_dashboard.py`     | Streamlit dashboard to explore risk breakdown by company         |
 
 ---
