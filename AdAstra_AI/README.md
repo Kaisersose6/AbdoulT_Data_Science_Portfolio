@@ -49,5 +49,3 @@ AdAstra/
     ├── test_data_pipeline.py
     └── test_ml_models.py
 ``` 
-
-This structure outlines the project directory for AdAstra, featuring the main files and organization clearly. Let me know if you need further clarification or modifications!
