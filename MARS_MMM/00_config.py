@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 
-# Configuration file for the MARS MMM project
 # Load environment variables from .env file
 load_dotenv()
 
