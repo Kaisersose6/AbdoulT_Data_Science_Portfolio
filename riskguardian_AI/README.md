@@ -37,8 +37,11 @@ Public company filings are massive, legal-heavy documents that bury crucial risk
 ## 📂 Folder Structure
 
 RiskGuardian_AI/
+
 │
+
 ├── data/
+
 │ ├── raw/ # Downloaded SEC filings
 │ ├── processed/ # Cleaned text and model outputs
 │ └── logs/ # Skipped or failed CIKs
