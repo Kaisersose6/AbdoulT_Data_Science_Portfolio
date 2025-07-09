@@ -7,7 +7,7 @@ Projects demonstrate my ability to develop end-to-end data science solutions, fr
 📍 **Specialties**: Credit scoring, healthcare analytics, marketing attribution, fraud detection, predictive modeling, data pipelines
 
 ## 🚀 Highlighted Categories
-- [Credit Risk Models](./Credit Risk Modeling Projects/)
+- [Credit Risk Models](https://github.com/Kaisersose6/AbdoulT_DSPortfolio/tree/78b11aacdea4b466effd9a77b6614974b512bac4/Credit%20Risk%20Modeling%20Projects))
 - [Healthcare Models](./healthcare-models/)
 - [Marketing Models](./marketing-models/)
 - [Quantitative Trading](./trading-models/)
