@@ -15,7 +15,7 @@ AdAstra uses computer vision and NLP to analyze ad creatives across social platf
 ## 💡 Business Value
 - Reduced customer acquisition costs by 18% in beta tests
 - Automated creative optimization for 10,000+ ad variations
-- Real-time decisioning at 200ms latency
+- Real-time decision-making at 200ms latency
 
 ## 🛠️ Tech Stack
 - **Core**: Python 3.11, PyTorch 2.0
@@ -24,6 +24,7 @@ AdAstra uses computer vision and NLP to analyze ad creatives across social platf
 
 ## Project Structure
 
+```
 AdAstra/
 ├── README.md
 ├── requirements.txt
@@ -47,3 +48,6 @@ AdAstra/
 └── tests/
     ├── test_data_pipeline.py
     └── test_ml_models.py
+``` 
+
+This structure outlines the project directory for AdAstra, featuring the main files and organization clearly. Let me know if you need further clarification or modifications!
