@@ -36,23 +36,4 @@ Public company filings are massive, legal-heavy documents that bury crucial risk
 
 ## 📂 Folder Structure
 
-RiskGuardian_AI/
 
-│
-
-├── data/
-
-│ ├── raw/ # Downloaded SEC filings
-│ ├── processed/ # Cleaned text and model outputs
-│ └── logs/ # Skipped or failed CIKs
-│
-├── models/ # Future expansion (LLMs, fine-tuned risk detectors)
-├── artifacts/ # Intermediate outputs
-│
-├── 00_setup.py # Index + 10-K/10-Q crawler
-├── 01_preprocess.py # Data cleaner
-├── 02_nlp_risk_classification.py
-├── 03_visualize_dashboard.py
-└── airflow/ (IP)
-└── dags/ (IP)
-└── riskguardian_dag.py (optional)
