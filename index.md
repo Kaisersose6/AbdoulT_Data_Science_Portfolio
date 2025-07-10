@@ -5,9 +5,12 @@ title: Abdoul Touré | Data Science Portfolio
 
 # Welcome to My Data Science Portfolio
 
-I'm a senior data scientist with expertise in modeling, marketing analytics, and storytelling with data. Here are some of my projects:
+I'm a Senior Data Scientist with over 10 years of experience in analytics, machine learning, and data strategy.
 
-- [Marketing Mix Modeling](projects/mix_modeling.md)
-- [Propensity Score Matching](projects/propensity_model.md)
+Check out some of my projects:
 
-[View My Resume](resume.pdf)
+- [Marketing Mix Modeling](#)
+- [Propensity Score Matching](#)
+- [Churn Prediction](#)
+
+[📄 Download My Resume](resume.pdf)
