@@ -1,6 +1,6 @@
 # _config.yml
 title: Abdoul T. Data Science Portfolio
-baseurl: "/AbdoulT_Data_Science_Portfolio"  # MUST match repo name
+baseurl: "/data_science_portfolio"  # MUST match repo name
 url: "https://kaisersose6.github.io"
 theme: minima
 plugins:
