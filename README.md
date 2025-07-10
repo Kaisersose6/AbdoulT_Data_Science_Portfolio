@@ -4,6 +4,7 @@ Welcome! This portfolio showcases my applied work across credit risk, healthcare
 Projects demonstrate my ability to develop end-to-end data science solutions, from raw data to deployed models and dashboards.
 
 🔧 **Tech Stack**: Python, SQL, Spark, Airflow, DBT, Tableau, Power BI, scikit-learn, XGBoost, FastAPI, Snowflake, Kafka  
+
 📍 **Specialties**: Credit scoring, healthcare analytics, marketing attribution, fraud detection, predictive modeling, data pipelines
 
 ## 🚀 Highlighted Categories
