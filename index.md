@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Abdoul Traoré | Data Science Portfolio
+title: Abdoul Touré | Data Science Portfolio
 ---
 
 # Welcome to My Data Science Portfolio
