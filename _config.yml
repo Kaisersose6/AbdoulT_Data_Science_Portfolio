@@ -1,0 +1,18 @@
+title: Abdoul Touré | Data Science Portfolio
+theme: minima
+description: Senior Data Scientist with expertise in predictive modeling, marketing analytics, and storytelling with data.
+author: Abdoul Touré
+email: abdoulkarim.toure@gmail.com
+baseurl: ""
+url: "https://kaisersose6.github.io"
+
+# Navigation
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects/"
+  - name: "About"
+    link: "/about/"
+  - name: "Contact"
+    link: "/contact/"
