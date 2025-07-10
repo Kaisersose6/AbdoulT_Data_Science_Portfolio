@@ -6,8 +6,6 @@ description: Using time series regression to estimate ad spend impact across cha
 
 # MARS: Marketing Attribution & Revenue Simulation
 
-# Marketing Mix Modeling
-
 ## Problem
 Sales attribution across paid channels was unclear.
 
