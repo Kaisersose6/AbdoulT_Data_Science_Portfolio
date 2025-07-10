@@ -12,3 +12,5 @@ title: Home
   <a href="{{ project.url | relative_url }}">Read more</a>
 </div>
 {% endfor %}
+
+trigger rebuild
