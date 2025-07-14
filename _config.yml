@@ -1,0 +1,19 @@
+# _config.yml
+title: Abdoul T. Data Science Portfolio
+baseurl: "/data_science_portfolio"  # MUST match repo name
+url: "https://kaisersose6.github.io"
+theme: minima
+plugins:
+  - jekyll-relative-links
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: default
