@@ -1,0 +1,15 @@
+os
+pandas
+scikit-learn
+xgboost
+tensorflow
+transformers
+nltk
+matplotlib
+shap
+azureml-core
+kaggle
+tf-keras
+nbformat
+papermill
+joblib
