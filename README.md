@@ -1,22 +1,54 @@
-# 📊 Abdoul Toure – Senior Data Science Portfolio
+# Abdoul Toure — Senior Data Scientist
 
-Welcome! This portfolio showcases my applied work across credit risk, healthcare analytics, marketing science, and quantitative trading. 
-Projects demonstrate my ability to develop end-to-end data science solutions, from raw data to deployed models and dashboards.
+**San Antonio, TX** · [LinkedIn](https://linkedin.com/in/abdoulk-toure) · abdoulkarim.toure@gmail.com ·
 
-🔧 **Tech Stack**: Python, SQL, Spark, Airflow, DBT, Tableau, Power BI, scikit-learn, XGBoost, FastAPI, Snowflake, Kafka  
+---
 
-📍 **Specialties**: Credit scoring, healthcare analytics, marketing attribution, fraud detection, predictive modeling, data pipelines
+Senior Data Scientist with 10+ years of experience across healthcare, financial services, and marketing analytics. I build end-to-end solutions — from raw data to deployed models — with a focus on measurable business impact. Currently a PhD student in Data Science at National University and an Azure Certified Data Scientist.
 
-## 🚀 Highlighted Categories
-- [Credit Risk Models](https://github.com/Kaisersose6/AbdoulT_DSPortfolio/tree/78b11aacdea4b466effd9a77b6614974b512bac4/Credit%20Risk%20Modeling%20Projects)
-- [Healthcare Models](./healthcare-models/)
-- [Marketing Models](./marketing-models/)
-- [Quantitative Trading](./trading-models/)
-- [Data Engineering Pipelines](./data-engineering/)
+**Core stack:** Python · PySpark · SQL · BigQuery · Snowflake · scikit-learn · XGBoost · Google Cloud Vertex AI · Microsoft Fabric · MLflow · Tableau · Power BI
 
-Each project includes:
-- Problem statement
-- Dataset description (or synthetic data generation)
-- EDA and feature engineering
-- Modeling and evaluation
-- Business insights or technical deployment
+**Specialties:** Predictive modeling · NLP & LLM pipelines · Causal inference · Call center analytics · Marketing attribution · Fraud detection · Member segmentation
+
+---
+
+## Portfolio projects
+
+| Project | Domain | Key techniques | Highlights |
+|---|---|---|---|
+| [📞 call-center-digital-adoption](./call-center-digital-adoption/) | Healthcare ops | Clustering · NLP · Forecasting · Queueing | 60M+ records · K-Means segmentation · LLM transcript analysis |
+| [💳 credit-default-prediction](./credit-default-prediction/) | Financial risk | Logistic regression · XGBoost · SHAP | ROC-AUC benchmarking · SHAP explainability |
+| [📈 marketing-mix-modeling-MARS](./marketing-mix-modeling-MARS/) | Marketing science | MARS · Ridge/Lasso · Attribution | ROI decomposition · spend optimization |
+| [🤖 omni-engage-ai](./omni-engage-ai/) | LLM pipelines | Vertex AI · Prompt engineering · RAG | Healthcare messaging · Vertex AI deployment |
+| [🛡️ risk-guardian-ai](./risk-guardian-ai/) | Risk / fraud | Classification · Anomaly detection · NLP | Fraud pattern detection · regulatory context |
+| [🚗 auto-insurance-claims](./auto-insurance-claims/) | Actuarial / insurance | GLMs · Survival analysis · Poisson regression | Claims frequency modeling · severity segmentation |
+| [🗄️ sql-analytics-pipeline](./sql-analytics-pipeline/) | Data engineering | BigQuery · PySpark · ETL · dbt | End-to-end pipeline · 50M+ record throughput |
+
+> **Fill-in project (recommended):** `sql-analytics-pipeline` addresses the most critical coverage gap — SQL and data engineering. See the project README for scope and rationale.
+>
+> ---
+>
+> ## Skill coverage
+>
+> | Area | Evidence in portfolio |
+> |---|---|
+> | Machine learning | Credit default, auto insurance claims, marketing mix, risk guardian |
+> | NLP / LLMs | OmniEngage AI (Vertex AI), call center transcript analysis |
+> | Causal inference & statistics | Call center DiD analysis, quasi-experimental methods |
+> | Forecasting | Call volume forecasting, ARIMA/Prophet in call-center project |
+> | Visualization | Tableau/Power BI outputs in marketing mix and call center projects |
+> | SQL / data engineering | sql-analytics-pipeline |
+> | Model deployment | Vertex AI deployment in OmniEngage AI; MLflow tracking in marketing mix |
+>
+> ---
+>
+> ## Education & certifications
+>
+> - **Ph.D. in Data Science** — National University *(in progress, 2025–present)*
+> - - **M.S. in Statistics** — University of Texas at San Antonio, GPA 3.8
+>   - - **B.S. in Actuarial Science** — University of Texas at San Antonio, GPA 3.9
+>     - - **Microsoft Certified: Azure Data Scientist Associate**
+>      
+>       - ---
+>
+> *Each project folder contains a README with problem framing, data description, methodology, results, and business impact. Notebooks are self-contained and reproducible.*
