@@ -1,6 +1,3 @@
----
-permalink: /readme/
----
 # Abdoul Toure — Senior Data Scientist
 
 **San Antonio, TX** · [LinkedIn](https://linkedin.com/in/abdoulk-toure) · abdoulkarim.toure@gmail.com ·
