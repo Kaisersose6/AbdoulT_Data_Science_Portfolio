@@ -1,4 +1,52 @@
-<head>
-  ...
-  <link rel="stylesheet" href="/assets/css/style.css">
-</head>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>{{ page.title }} | Abdoul Toure</title>
+    <style>
+          *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+          body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0d1117; color: #e6edf3; line-height: 1.7; }
+          a { color: #58a6ff; text-decoration: none; }
+          a:hover { text-decoration: underline; }
+          nav { background: #161b22; border-bottom: 1px solid #30363d; padding: 1rem 2rem; display: flex; align-items: center; gap: 2rem; }
+          nav .brand { font-weight: 700; font-size: 1.1rem; color: #e6edf3; }
+          nav a { color: #8b949e; font-size: 0.9rem; }
+          nav a:hover { color: #e6edf3; text-decoration: none; }
+          .container { max-width: 960px; margin: 0 auto; padding: 3rem 2rem; }
+          h1 { font-size: 2rem; font-weight: 700; margin-bottom: 0.5rem; }
+          h2 { font-size: 1.4rem; font-weight: 600; margin: 2rem 0 1rem; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem; }
+          h3 { font-size: 1.1rem; font-weight: 600; margin: 1.5rem 0 0.5rem; }
+          p { margin-bottom: 1rem; color: #c9d1d9; }
+          ul, ol { padding-left: 1.5rem; margin-bottom: 1rem; color: #c9d1d9; }
+          li { margin-bottom: 0.3rem; }
+          code { background: #161b22; border: 1px solid #30363d; border-radius: 4px; padding: 0.1rem 0.4rem; font-family: 'SFMono-Regular', Consolas, monospace; font-size: 0.85em; color: #e6edf3; }
+          pre { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 1rem 1.2rem; overflow-x: auto; margin-bottom: 1.2rem; }
+          pre code { background: none; border: none; padding: 0; }
+          table { width: 100%; border-collapse: collapse; margin-bottom: 1.5rem; font-size: 0.9rem; }
+          th { background: #161b22; color: #8b949e; text-align: left; padding: 0.6rem 1rem; border-bottom: 2px solid #30363d; font-weight: 600; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 0.05em; }
+          td { padding: 0.6rem 1rem; border-bottom: 1px solid #21262d; color: #c9d1d9; }
+          tr:hover td { background: #161b22; }
+          .badge { display: inline-block; background: #1f6feb22; border: 1px solid #1f6feb55; color: #58a6ff; border-radius: 20px; padding: 0.15rem 0.7rem; font-size: 0.75rem; font-weight: 500; margin: 0.1rem; }
+          blockquote { border-left: 3px solid #30363d; padding: 0.5rem 1rem; color: #8b949e; margin-bottom: 1rem; }
+          hr { border: none; border-top: 1px solid #30363d; margin: 2rem 0; }
+          footer { text-align: center; padding: 2rem; color: #8b949e; font-size: 0.85rem; border-top: 1px solid #21262d; margin-top: 4rem; }
+        </style>
+  </head>
+  <body>
+      <nav>
+            <span class="brand">Abdoul Toure</span>span>
+            <a href="/AbdoulT_Data_Science_Portfolio/">Home</a>a>
+            <a href="https://linkedin.com/in/abdoulk-toure" target="_blank">LinkedIn</a>a>
+            <a href="https://github.com/Kaisersose6/AbdoulT_Data_Science_Portfolio" target="_blank">GitHub</a>a>
+      </nav>
+      <div class="container">
+            {{ content }}
+      </div>div>
+      <footer>Abdoul Toure &mdash; Senior Data Scientist &mdash; San Antonio, TX</footer>
+  </body>
+</html>html></footer>
+      </nav>
+  </body>
+    </style></title>
+  </head>
