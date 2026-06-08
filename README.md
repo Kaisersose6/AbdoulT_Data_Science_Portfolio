@@ -1,6 +1,6 @@
 # Abdoul Toure — Senior Data Scientist
 
-**San Antonio, TX** · [LinkedIn](https://linkedin.com/in/abdoulk-toure) · abdoulkarim.toure@gmail.com
+**San Antonio, TX** · [LinkedIn](https://linkedin.com/in/abdoulk-toure) · abdoulkarim.toure@gmail.com · [Resume](https://github.com/Kaisersose6/AbdoulT_Data_Science_Portfolio/raw/main/resume.pdf)
 
 ---
 
