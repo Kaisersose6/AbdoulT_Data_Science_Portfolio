@@ -1,6 +1,6 @@
 # Abdoul Toure — Senior Data Scientist
 
-**San Antonio, TX** · [LinkedIn](https://linkedin.com/in/abdoulk-toure) · abdoulkarim.toure@gmail.com ·
+**San Antonio, TX** · [LinkedIn](https://linkedin.com/in/abdoulk-toure) · abdoulkarim.toure@gmail.com
 
 ---
 
@@ -12,43 +12,41 @@ Senior Data Scientist with 10+ years of experience across healthcare, financial 
 
 ---
 
-## Portfolio projects
+## Portfolio Projects
 
-| Project | Domain | Key techniques | Highlights |
-|---|---|---|---|
-| [📞 call-center-digital-adoption](./call-center-digital-adoption/) | Healthcare ops | Clustering · NLP · Forecasting · Queueing | 60M+ records · K-Means segmentation · LLM transcript analysis |
-| [💳 credit-default-prediction](./credit-default-prediction/) | Financial risk | Logistic regression · XGBoost · SHAP | ROC-AUC benchmarking · SHAP explainability |
-| [📈 marketing-mix-modeling-MARS](./marketing-mix-modeling-MARS/) | Marketing science | MARS · Ridge/Lasso · Attribution | ROI decomposition · spend optimization |
-| [🤖 omni-engage-ai](./omni-engage-ai/) | LLM pipelines | Vertex AI · Prompt engineering · RAG | Healthcare messaging · Vertex AI deployment |
-| [🛡️ risk-guardian-ai](./risk-guardian-ai/) | Risk / fraud | Classification · Anomaly detection · NLP | Fraud pattern detection · regulatory context |
-| [🚗 auto-insurance-claims](./auto-insurance-claims/) | Actuarial / insurance | GLMs · Survival analysis · Poisson regression | Claims frequency modeling · severity segmentation |
-| [🗄️ sql-analytics-pipeline](./sql-analytics-pipeline/) | Data engineering | BigQuery · PySpark · ETL · dbt | End-to-end pipeline · 50M+ record throughput |
+| Project | Domain | Key techniques |
+|---|---|---|
+| [OmniEngage AI](https://github.com/Kaisersose6/AbdoulT_Data_Science_Portfolio/tree/main/OmniEngage_AI) | Healthcare NLP / LLMs | Vertex AI · Prompt engineering · RAG · BERTopic |
+| [RiskGuardian AI](https://github.com/Kaisersose6/AbdoulT_Data_Science_Portfolio/tree/main/riskguardian_AI) | Financial risk / regulatory NLP | BART-MNLI · Zero-shot classification · SEC EDGAR · Streamlit |
+| [MARS: Marketing Mix Modeling](https://github.com/Kaisersose6/AbdoulT_Data_Science_Portfolio/tree/main/MARS_MMM) | Marketing science | Bayesian MMM · PyMC · Adstock · Budget optimization |
+| [Credit Default Prediction](https://github.com/Kaisersose6/AbdoulT_Data_Science_Portfolio/tree/main/Credit%20Risk%20Modeling%20Projects/Credit%20Default%20Prediction%20Using%20Logistic%20Regression%20and%20XGBoost) | Financial risk / credit scoring | XGBoost · Logistic regression · SHAP · Calibration |
+| [Auto Insurance Claims](https://github.com/Kaisersose6/AbdoulT_Data_Science_Portfolio/tree/main/Auto%20Insurance%20Claims) | Actuarial / P&C insurance | Poisson GLM · Gamma GLM · Survival analysis · Exposure modeling |
 
-> **Fill-in project (recommended):** `sql-analytics-pipeline` addresses the most critical coverage gap — SQL and data engineering. See the project README for scope and rationale.
->
-> ---
->
-> ## Skill coverage
->
-> | Area | Evidence in portfolio |
-> |---|---|
-> | Machine learning | Credit default, auto insurance claims, marketing mix, risk guardian |
-> | NLP / LLMs | OmniEngage AI (Vertex AI), call center transcript analysis |
-> | Causal inference & statistics | Call center DiD analysis, quasi-experimental methods |
-> | Forecasting | Call volume forecasting, ARIMA/Prophet in call-center project |
-> | Visualization | Tableau/Power BI outputs in marketing mix and call center projects |
-> | SQL / data engineering | sql-analytics-pipeline |
-> | Model deployment | Vertex AI deployment in OmniEngage AI; MLflow tracking in marketing mix |
->
-> ---
->
-> ## Education & certifications
->
-> - **Ph.D. in Data Science** — National University *(in progress, 2025–present)*
-> - - **M.S. in Statistics** — University of Texas at San Antonio, GPA 3.8
->   - - **B.S. in Actuarial Science** — University of Texas at San Antonio, GPA 3.9
->     - - **Microsoft Certified: Azure Data Scientist Associate**
->      
->       - ---
->
-> *Each project folder contains a README with problem framing, data description, methodology, results, and business impact. Notebooks are self-contained and reproducible.*
+---
+
+## Skill Coverage
+
+| Area | Evidence in portfolio |
+|---|---|
+| Machine learning | Credit default, auto insurance claims, marketing mix, risk guardian |
+| NLP / LLMs | OmniEngage AI (Vertex AI), call center transcript analysis |
+| Causal inference & statistics | DiD analysis, quasi-experimental methods |
+| Forecasting | ARIMA/Prophet, call volume forecasting |
+| Visualization | Tableau/Power BI outputs, Streamlit dashboards |
+| SQL / data engineering | PySpark pipelines, BigQuery, Snowflake, Microsoft Fabric |
+| Model deployment | Vertex AI (OmniEngage), MLflow tracking (MARS) |
+
+---
+
+## Education & Certifications
+
+- **Ph.D. in Data Science** — National University *(in progress, 2025–present)*
+- - **M.S. in Statistics** — University of Texas at San Antonio, GPA 3.8
+  - - **B.S. in Actuarial Science** — University of Texas at San Antonio, GPA 3.9
+    - - **Microsoft Certified: Azure Data Scientist Associate**
+     
+      - ---
+
+      *Each project folder contains a README with problem framing, methodology, results, and business impact. Notebooks are self-contained and reproducible.*
+
+      **Live site:** https://kaisersose6.github.io/AbdoulT_Data_Science_Portfolio/
